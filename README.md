@@ -46,7 +46,7 @@
 
 ### Course Practice Repositories
 
-[Statistics in Python](https://github.com/binaveza/iqs-statistics-in-python) - 2026-02
+[Statistics Practicum in Python](https://github.com/binaveza/iqs-statistics-in-python) - 2026-02
 
 </td><td valign="top" width="25%">
   
