@@ -15,7 +15,7 @@
 </td><td valign="top" width="33%">
 
 ### На связи 
-[тгк: @kilina_tech](t.me/kilina_tech)
+[тгк: @kilina_tech](https://t.me/kilina_tech)
 
 
 </td></tr></table>
@@ -48,7 +48,7 @@
 </td><td valign="top" width="33%">
 
 ### Links 
-[telegram-channel: @kilina_tech](t.me/kilina_tech)
+[telegram-channel: @kilina_tech](https://t.me/kilina_tech)
 
 
 </td></tr></table>
