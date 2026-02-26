@@ -44,7 +44,7 @@
 
 </td><td valign="top" width="25%">
 
-### Course Practice Repositories
+### Study Repositories
 
 [Statistics Practicum in Python](https://github.com/binaveza/iqs-statistics-in-python) - 2026-02
 
