@@ -61,8 +61,8 @@
 ### 📌 Positions
 
 - Software Developer — 2022  
-- Senior Software Developer — 2023–2025  
-- Lead Analyst — 2025–2026
+- Middle Software Developer — 2023–2025  
+- Senior Analyst — 2025–2026
 
 <!--
 **binaveza/binaveza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
