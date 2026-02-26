@@ -17,7 +17,7 @@
 
 About me:
 
-### 📚 Education
+### 📚 University degree
 
 - Software Engineering, Bachelor, Kazan Federal University (2021)
 - Applied Artificial Intelligence, Master, Ural Federal University (2026)
