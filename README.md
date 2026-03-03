@@ -36,7 +36,7 @@
 ***
 ## Hi there 👋
 
-⚙️ ERP Admin → 👨‍💻 Dev → 📊 Analytics Dev → 👨‍🏫 Middle Analytics Dev → 🧠 Senior Analyst
+⚙️ ERP Admin → 👨‍💻 Dev → 📊 Analytics Dev → 👨‍🏫 Senior Analytics Dev → 🧠 Lead Analyst
 
 📖 Bachelor's: 👨‍🎓 Software Engineering (KFU, 2021)  
 📚 Master's: 🤖 Applied Artificial Intelligence (UrFU, 2026)
