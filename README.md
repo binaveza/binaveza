@@ -1,4 +1,10 @@
 ## Доброго дня 👋
+
+⚙️ Администратор ERP → 👨‍💻 Разработчик → 📊 Разработчик аналитики → 👨‍🏫 Старший разработчик аналитики → 🧠 Ведущий аналитик
+
+📚 Бакалавриат: 👨‍🎓 Программная инженерия, КФУ (2021)  
+🎓 Магистратура: 🤖 Прикладной искусственный интеллект, УрФУ (2026)
+
 <table><tr><td valign="top" width="25%">
 
 ### Проектные репозитории
@@ -26,18 +32,15 @@
 
 </td></tr></table>
 
-### 📚 Образование
-- Программная инженерия, Бакалавриат, Казанский (Приволжский) Федеральный университет (2021 г.)
-- Прикладной искусственный интеллект, Магистратура, Уральский Федеральный университет (2026 г.)
-
-### 📌 Карьера 
-
-- Программист — 2022  
-- Старший программист — 2023–2025  
-- Ведущий аналитик — 2025–2026  
 
 ***
 ## Hi there 👋
+
+⚙️ ERP Admin → 👨‍💻 Dev → 📊 Analytics Dev → 👨‍🏫 Senior Analytics Dev → 🧠 Lead Analyst
+
+📖 Bachelor's: 👨‍🎓 Software Engineering (KFU, 2021)  
+📚 Master's: 🤖 Applied Artificial Intelligence (UrFU, 2026)
+
 <table><tr><td valign="top" width="25%">
   
 ### Project Repositories
@@ -66,16 +69,6 @@
 
 </td></tr></table>
 
-### 📚 University degree
-
-- Software Engineering, Bachelor, Kazan Federal University (2021)
-- Applied Artificial Intelligence, Master, Ural Federal University (2026)
-
-### 📌 Positions
-
-- Software Developer — 2022  
-- Middle Software Developer — 2023–2025  
-- Senior Analyst — 2025–2026
 
 <!--
 **binaveza/binaveza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
