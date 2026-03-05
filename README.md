@@ -11,8 +11,9 @@
 
 </td><td valign="top" width="25%">
 
-### Репозитории пройденных курсов
+### Учебные репозитории
 
+[SQL Academy Тренажёр](https://github.com/binaveza/iqs-sql-academy-trainer) - 2026-03
 [Практикум по статистике на Python](https://github.com/binaveza/iqs-statistics-in-python) - 2026-02
 
 </td><td valign="top" width="25%">
@@ -49,6 +50,7 @@
 
 ### Study Repositories
 
+[SQL Academy Trainer](https://github.com/binaveza/iqs-sql-academy-trainer) - 2026-03
 [Statistics Practicum in Python](https://github.com/binaveza/iqs-statistics-in-python) - 2026-02
 
 </td><td valign="top" width="25%">
