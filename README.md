@@ -9,6 +9,8 @@
 
 ### Проектные репозитории
 
+[Mail Log Search](https://github.com/binaveza/tt-perl-programmer) - 2026-06
+
 </td><td valign="top" width="25%">
 
 ### Учебные репозитории
@@ -46,6 +48,8 @@
 <table><tr><td valign="top" width="25%">
   
 ### Project Repositories
+
+[Mail Log Search](https://github.com/binaveza/tt-perl-programmer) - 2026-06
 
 </td><td valign="top" width="25%">
 
